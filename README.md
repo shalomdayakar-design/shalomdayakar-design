@@ -1,51 +1,37 @@
-# Hi there, I'm Shalom Dayakar 👋 
-### Full-Stack Developer & UI/UX Engineer
+# ⚡ CRITICAL_CORE_INITIALIZED // SHALOM DAYAKAR 👋
 
-Transforming complex ideas into clean, high-performance digital experiences. Specializing in responsive web architecture, interactive frontend systems, and sleek UI aesthetics.
+```text
+🌐 SYSTEM STATUS: ACTIVE
+🛰️ CORE SPECIALTY: FULL-STACK ARCHITECTURE & UI/UX CYBER-AESTHETICS
+{
+  "identity": "Pondari Shalom Dayakar",
+  "role": "Full-Stack Developer & UI/UX Engineer",
+  "focus": ["Responsive Web Architecture", "Interactive Frontend Systems", "Premium Visual Design"],
+  "mission": "Transforming complex logical data structures into high-fidelity user experiences."
+}
+🛠️ CYBER TECH STACK & OPERATING TOOLS
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Frontend-HTML5%2520%257C%2520CSS3%2520%257C%2520JS-00ffcc%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="Frontend Matrix" />
 
----
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Core_Languages-Python%2520%257C%2520C%252B%252B-ff0055%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Logic Layers" />
 
-### 🚀 What I Do
-- 💻 **Frontend Development:** Crafting high-fidelity, interactive user interfaces.
-- 🛠️ **System Architecture:** Building clean, maintainable codebases across Python, C++, and JavaScript frameworks.
-- 🎨 **UI/UX Design:** Blending premium visuals with fluid user experiences.
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Design_Engine-Figma%2520%257C%2520UI%2520%257C%2520UX-9900ff%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" alt="Design Engine" />
 
----
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Environment-Git%2520%257C%2520GitHub-ffffff%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack" alt="Environment" />
+</p>
 
-### 🛠️ Tech Stack & Digital Toolbox
+📈 LIVE DATA STREAMS & ANALYTICS
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshalomdayakar-design%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26sideNums%3D00ffcc%26sideLabels%3Dffffff" alt="Commit Streak" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshalomdayakar-design%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26title_color%3D00ffcc%26text_color%3Dffffff" alt="Language Matrix" width="48%" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
-      <br>📊 <b>Frontend</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js,py,cpp" alt="Languages" />
-      <br>⚡ <b>Languages</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Workflow" />
-      <br>⚙️ <b>Workflow</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-      <br>🎨 <b>Design</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshalomdayakar-design%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26title_color%3D00ffcc%26text_color%3Dffffff%26icon_color%3Dff0055" alt="System Stats" width="80%" />
+</p>
 
----
+⚡ CURRENT OPERATIONS & TERMINAL COMMITS
+🤝 SECURE COMMS LINK
+📧 Secure Terminal: shalomdayakar@gmail.com
 
-### 📈 Core Metrics & Activity
-
-⚡ *Powered by continuous learning and consistent commits.*
-
-![Shalom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalomdayakar-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalomdayakar-design&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Connect With Me
-- 📧 **Email:** shalomdayakar@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/shalom-dayakar-541a82364
+💼 Network Link: LinkedIn Core
