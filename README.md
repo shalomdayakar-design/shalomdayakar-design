@@ -39,4 +39,4 @@
 🤝 SECURE COMMS LINK
 📧 Secure Terminal: shalomdayakar@gmail.com
 
-💼 Network Link: LinkedIn Core
+💼 Network Link: www.linkedin.com/in/shalom-dayakar-541a82364
